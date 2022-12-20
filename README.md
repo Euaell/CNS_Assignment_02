@@ -1,6 +1,6 @@
 # CNS_Assignment_02
 
-In this project, most famous symmetric encryption algorithms are implemented. To open the app open `index.html`
+In this project, most famous symmetric encryption algorithms are implemented. To use the app, open `index.html` in browser.
 
 - AES
 - DES
